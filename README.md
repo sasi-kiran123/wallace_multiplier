@@ -20,3 +20,15 @@ Furthermore, the Wallace multiplier provides flexibility in terms of scalability
 However, it's important to note that the performance and area efficiency of the Wallace multiplier may vary depending on the specific operand sizes and design constraints. Different optimizations, such as parallelization or the use of advanced adder structures, can be applied to further enhance its efficiency.
 
 Overall, the Wallace multiplier is a powerful multiplication algorithm that balances speed, area efficiency, and scalability. It is commonly used in VLSI designs, particularly in applications that require high-speed multiplication and efficient hardware utilization.
+
+
+### schematic
+
+![image](https://github.com/sasi-kiran123/wallace_multiplier/assets/75782906/2f64bea8-183a-4aa3-b6da-3413a7083cee)
+
+
+
+### Layout using Physical Design
+
+![image](https://github.com/sasi-kiran123/wallace_multiplier/assets/75782906/14b079f7-bc50-43f0-a704-d0b11e0256bb)
+
